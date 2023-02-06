@@ -7,3 +7,6 @@ You can click between different photo miniatures, which when pressed, show the p
 A bonus feature is a button that toggles light/dark mode, changing the user experience.
 
 Enjoy!
+
+
+Try the live version at: https://popiolekdawid.github.io/paris-image-gallery/
